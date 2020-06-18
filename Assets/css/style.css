@@ -1,0 +1,12 @@
+* {font-family: Verdana}
+
+body {background-image: url("../Images/JPEG/iranian.jpg");color:rgb(216, 197, 158)}
+
+h2 { font-size: 16px}
+
+li {color: cornflowerblue; background: #532f2f;margin:14px ;list-style: square;}
+
+.info {background-color: rgb(187, 137, 11); color: black;}
+
+
+#id1 {color:red}
